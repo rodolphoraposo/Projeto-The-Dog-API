@@ -1,45 +1,77 @@
 # 🐶 Projeto The Dog API
 
-Este é um site interativo desenvolvido com HTML, CSS e JavaScript orientado a objetos, integrado com a [The Dog API](https://thedogapi.com), onde você pode:
+---
 
-- Visualizar imagens aleatórias de cães 🐕
-- Curtir (like) ou não curtir (dislike) uma imagem 👍👎
-- Favoritar suas imagens favoritas ❤️
-- Ver suas imagens favoritas em uma galeria organizada 📸
-- Navegar entre as seções `Voting`, `Breeds` e `Favs` com um layout moderno
+## 📝 Sobre o projeto
+O "Projeto The Dog API" é uma aplicação front-end que demonstra a integração com uma API externa. A plataforma consome a "The Dog API" para buscar e exibir imagens aleatórias de cães, proporcionando uma experiência simples e interativa para os amantes de cachorros. Este projeto foca em habilidades de requisição de dados, manipulação do DOM e criação de interfaces responsivas.
 
-## 🔧 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- The Dog API
-- Git & GitHub
-
-## 📁 Estrutura do Projeto
-
-Projeto-The-Dog-API/ │ ├── index.html
-├── favs.html
-├── CSS/ │ └── style.css
-├── JavaScript/ │ └── script.js
-├── README.md
+---
 
 
-## 🚀 Como usar
+## 🚀 Tecnologias e Ferramentas
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/raposoofc/Projeto-The-Dog-API.git
-Abra o index.html no navegador.
+### 🌐 Front-end
 
-Navegue, curta e favorite suas imagens preferidas! 🐾
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;
+</p>
 
-📷 Preview
-(Você pode colocar aqui prints do site ou um GIF demonstrando o funcionamento.)
+### 🛠️ Ferramentas
 
-📬 Contato
-Desenvolvido por Rapôso - Developer Web
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code logo" />&nbsp;
+</p>
 
-GitHub: @raposoofc
-Youtube: @raposoofc87
-Instagram: @raposoofc.87
+---
+
+## 🌟 Recursos e Funcionalidades
+
+- Consumo de API: Requisições GET para obter dados de imagens de cães.
+
+- Interface Dinâmica: Atualização do conteúdo da página sem a necessidade de recarregar.
+
+- Responsividade: Layout otimizado para uma visualização perfeita em qualquer dispositivo.
+
+- UI/UX: Design simples e focado na experiência do usuário.
+
+---
+
+## 🔥 GitHub Streak
+
+### 📊 Estatísticas do GitHub
+
+<div align="center" style="display: flex; gap: 40px;">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raposoofc&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raposoofc&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+
+</div>
+
+---
+
+## 📬 Conecte-se comigo  
+
+<p>
+  <a href="https://www.linkedin.com/in/raposoofc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo"/>
+  </a>&nbsp;
+  
+  <a href="mailto:raposotiweb@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail logo"/>
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/raposoofc.87" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram logo"/>
+  </a>&nbsp;
+  
+  <a href="https://github.com/raposoofc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"/>
+  </a>&nbsp;
+</p>
