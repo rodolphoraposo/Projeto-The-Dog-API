@@ -59,7 +59,7 @@ O "Projeto The Dog API" é uma aplicação front-end que demonstra a integraçã
 ## 📬 Conecte-se comigo  
 
 <p>
-  <a href="https://www.linkedin.com/in/raposoofc" target="_blank">
+  <a href="https://www.linkedin.com/in/rodolphoraposo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo"/>
   </a>&nbsp;
   
